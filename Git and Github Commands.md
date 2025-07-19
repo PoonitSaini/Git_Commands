@@ -36,6 +36,14 @@
 1. git diff <-branch name-> # To Compare Commits,Branch,Files & More
 2. git merge <-branch name-> # To Merge Two Branches
 
+# Undoing Changes
+1. git reset <-file name-> # Reset Staged Changes in Specific File
+2. git reset # Reset Staged Changes in All Files
+3. git reset head~1 # Reset Commited Changes for one Commit
+4. git reset <-Commit hash-> # Reset Commited Chnages for many Commit or Specific Commit
+5. git reset --hard <-commit hash-> # Reset Commited Changes in local also  
+6. git log # To Get All Commits Hash (use Q to Exit)
+
 # Some OTher Important Commands 
 1. cd <-DirectoryName-> # To Change Directory
 3. cd .. # To Exit Directory
