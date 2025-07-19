@@ -1,5 +1,5 @@
 # Configuring Git 
-<br>
+<br> <hr>
 #To configure user name 
 <br>
 1. git config --global user.name "My Name"
