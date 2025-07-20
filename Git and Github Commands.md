@@ -44,7 +44,7 @@
 5. git reset --hard <-commit hash-> # Reset Commited Changes in local also  
 6. git log # To Get All Commits Hash (use Q to Exit)
 
-# Some OTher Important Commands 
+# Some Other Important Commands 
 1. cd <-DirectoryName-> # To Change Directory
 3. cd .. # To Exit Directory
 4. mkdir <-Directory Name-> # To Add New Folder in Local 
